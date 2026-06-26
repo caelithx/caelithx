@@ -7,9 +7,9 @@ $${\color{#F4E99B}\textsf{(As \ long \ as \ it's \ not \ offensive) }}$$
 
 $${\color{#3DAF9F}\textsf{I'm\ usually\ online\ on\ Pony.}}$$
 
-$${\color{#F4E99B}\textsf{Most\ of\ the\ time,\ I'm\ AFK\ or\ tabbed\ out.}}$$
+$${\color{#3DAF9F}\textsf{Most\ of\ the\ time,\ I'm\ AFK\ or\ tabbed\ out.}}$$
 
-$${\color{#3DAF9F}\textsf{Feel\ free\ to\ whisper\ me\ if\ you'd\ like\ to\ chat!\ ♡}}$$
+$${\color{#F4E99B}\textsf{Feel\ free\ to\ whisper\ me\ if\ you'd\ like\ to\ chat!\ ♡}}$$
 <p align="center">
   <img src="https://raw.githubusercontent.com/kween-sande/kween-sande/refs/heads/main/Fuchi%20Sunao.jpeg" width="700">
 </p>
