@@ -3,6 +3,8 @@
 
 $${\color{#F4E99B}\textsf{You\ can\ call\ me\ Kaya \ or\ any\ nickname\ you\ like.}}$$
 
+$${\color{#F4E99B}\textsf{(As \ long \ as \ it's \ not \ offensive) }}$$ 
+
 $${\color{#3DAF9F}\textsf{I'm\ usually\ online\ on\ Pony.}}$$
 
 $${\color{#F4E99B}\textsf{Most\ of\ the\ time,\ I'm\ AFK\ or\ tabbed\ out.}}$$
