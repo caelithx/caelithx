@@ -1,4 +1,4 @@
-️　 　 ️　 　　　  [![cuties](https://hits.sh/github.com/caelithx.svg?label=sunao&color=F4E99B&labelColor=3DAF9F)](https://hits.sh/github.com/caelithx/)
+️　 　 ️　 　　　  [![cuties](https://hits.sh/github.com/caelithx.svg?label=🎈&color=F4E99B&labelColor=3DAF9F)](https://hits.sh/github.com/caelithx/)
 
 
 $${\color{#F4E99B}\textsf{You\ can\ call\ me\ Kaya \ or\ any\ nickname\ you\ like.}}$$
