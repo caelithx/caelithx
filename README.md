@@ -1,6 +1,3 @@
-️　 　 ️　 　　　  [![cuties](https://hits.sh/github.com/caelithx.svg?label=🎈&color=F4E99B&labelColor=3DAF9F)](https://hits.sh/github.com/caelithx/)
-
-
 $${\color{#F4E99B}\textsf{You\ can\ call\ me\ Kaya \ or\ any\ nickname}}$$$${\color{#F4E99B}\textsf{you\ like. \ (As \ long \ as \ it's \ not \ offensive)}}$$
 
 $${\color{#3DAF9F}\textsf{I'm\ usually\ online\ on\ Pony.}}$$
